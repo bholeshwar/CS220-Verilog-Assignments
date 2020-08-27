@@ -1,2 +1,2 @@
 # CS220 Verilog Assignments
- Verilog codes for CS220-Computer Organization
+ Verilog assignments for the course CS220-Computer Organization, IITK
